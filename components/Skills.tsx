@@ -33,7 +33,7 @@ const skills = [
 
 const Skills = () => {
     return (
-        <div className="h-[100vh] min-h-[400px] bg-custom-gray">
+        <div className="h-[100vh] min-h-[800px] bg-custom-gray">
             <div className="flex justify-center h-[3%]">
                 <div className="h-auto w-1 bg-custom-blue"/>
             </div>
