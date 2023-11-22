@@ -24,8 +24,8 @@ const About = () => {
                         <p className="text-xl font-bold">Je m'appelle <span
                             className="text-custom-blue">Louis Di Ilio</span></p>
                         <div className="flex flex-col w-80 gap-4 font-thin">
-                            <p>Passionné d'informatique depuis plusieurs années et âgé de 20 ans, je suis sur le point
-                                d'obtenir un diplôme de niveau bac +4 en Conception de logiciel.
+                            <p>Passionné d'informatique depuis plusieurs années et âgé de 20 ans, je viens d'obtenir mon diplôme
+                                en Conception de logiciel.
                                 Grâce à ma fibre d'autodidacte, j'ai pu acquérir des compétences solides dans ce
                                 domaine.</p>
                             <a className="flex items-center gap-2 cursor-pointer" rel="noreferrer" target="_blank" onClick={() => router.push("/cv")}>
