@@ -9,7 +9,7 @@ const Hello = () => {
                <FaLaptopCode color="#2487e3" size={150}/>
                 <p>Bonjour, je suis</p>
                 <p className="text-5xl md:text-7xl text-custom-blue font-bold">Louis Di Ilio</p>
-                <p>Développeur Java</p>
+                <p>Développeur Web</p>
                 <div className="flex gap-5">
                     <a rel="noreferrer" target="_blank" href="https://www.linkedin.com/in/louis-diilio">
                         <AiFillLinkedin color="#2487e3" size={50}/>
